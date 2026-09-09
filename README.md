@@ -1,6 +1,6 @@
 # To-Do List Application
 
-A modern, feature-rich to-do list application with local storage functionality. Build with vanilla HTML, CSS, and JavaScript.
+A modern, feature-rich to-do list application with local storage functionality. Built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
 
